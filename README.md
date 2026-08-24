@@ -7,3 +7,7 @@ It intentionally contains outdated, vulnerable npm dependencies (see `package.js
 that GitHub Dependabot raises real alerts, plus sample issues and pull requests, so the
 `github_repository`, `github_issue`, `github_pull_request`, and `github_dependabot_alert`
 Steampipe tables all have real data to query.
+
+## License
+
+MIT License. See package.json for details.
