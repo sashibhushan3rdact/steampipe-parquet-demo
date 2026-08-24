@@ -1,0 +1,11 @@
+{
+  "name": "steampipe-parquet-demo",
+  "version": "1.0.0",
+  "description": "Sample repo with intentionally outdated, vulnerable dependencies to demo Dependabot alerts for a GitHub -> Steampipe -> Parquet pipeline.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "axios": "0.21.0",
+    "minimist": "1.2.5"
+  }
+}
